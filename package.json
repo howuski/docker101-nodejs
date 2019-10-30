@@ -1,0 +1,13 @@
+{
+    "name": "docker101_in_Nodejs",
+    "version": "1.0.0",
+    "description": "Learn Docker basics via Node.js app",
+    "author": "Fizal Mohamed",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
